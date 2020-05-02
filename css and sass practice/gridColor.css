@@ -1,0 +1,8 @@
+.grid {
+  background-color: yellow;
+}
+
+.grid > div {
+  background-color: greenyellow;
+}
+/*# sourceMappingURL=gridColor.css.map */
